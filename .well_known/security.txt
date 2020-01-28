@@ -1,0 +1,3 @@
+---
+redirect_to: https://raw.githubusercontent.com/ministryofjustice/security-guidance/master/contact/vulnerability-disclosure-security.txt
+---
